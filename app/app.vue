@@ -1,6 +1,7 @@
 <template>
   <div>
     <BlossomingFlowers />
+    <Sorry />
   </div>
 </template>
 
